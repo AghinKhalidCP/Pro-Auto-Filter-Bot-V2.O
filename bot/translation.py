@@ -37,7 +37,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 
 <b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
+<b>☞ 📖Source Code</b> : <a href="https://t.me/Uvva_IppoKittum_Nokkiyirunno/4">😋Click Here</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [ADBZ](t.me/Mo_Tech_YT)"""
