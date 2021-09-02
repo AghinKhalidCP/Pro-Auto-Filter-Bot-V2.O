@@ -20,7 +20,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
     
 ☞ <code>/settings</code> -  <b>This Command Will Display You A Settings Pannel Instance Which Can Be Used To Tweek Bot's Settings Accordingly</b>
 
-   ☞ <code>Channel</code> - <b>Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls</b>
+   ☞ <code>/Channel</code> - <b>Button Will Show You All The Connected Chats With The Group And Will Show Buttons Correspnding To There Order For Furthur Controls</b>
             
    ☞ <code>Filter Types</code> - <b>Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart</b>
 
@@ -40,4 +40,4 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 <b>☞ 📖Source Code</b> : <a href="https://t.me/Uvva_IppoKittum_Nokkiyirunno/4">😋Click Here</a></b>
 """
 
-    TEAM = """Team [ADBZ](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [ADBZ](t.me/adbz_filmworld)"""
