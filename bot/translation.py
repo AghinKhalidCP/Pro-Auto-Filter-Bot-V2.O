@@ -28,7 +28,7 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
             
    ☞ <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
         
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/Mo_Tech_YT">©ADBz</a></b>
 """
     
     ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>Pro Auto Filter Bot V2.O</b>
