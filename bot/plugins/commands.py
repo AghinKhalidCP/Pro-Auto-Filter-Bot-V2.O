@@ -18,7 +18,7 @@ async def start(bot, update):
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked out":
-               await update.reply_text("😔 Sorry Dude, You are **🅱︎🅰︎🅽︎🅽︎🅴︎🅳︎ 🤣🤣🤣**")
+               await update.reply_text("🥲Sorry Dude, You've to join the Channel else u Can't access")
                return
         except UserNotParticipant:
             #await update.reply_text(f"Join @{update_channel} To Use Me")
@@ -96,10 +96,10 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('Support', url='t.me/Mo_Tech_Group'),
+        InlineKeyboardButton('Support', url='t.me/SultanMehmed_bot'),
         InlineKeyboardButton('Bot Updates', url=f't.me/{MT_UPDATES}')
     ],[
-        InlineKeyboardButton('🖥️ How To Own This Bot 🖥️', url=f'{MT_LINK}')
+        InlineKeyboardButton('More About us', url=f'{MT_LINK}')
     ],[   
         InlineKeyboardButton('🏠Home', callback_data='start'),
         InlineKeyboardButton('About😎', callback_data='about'),
